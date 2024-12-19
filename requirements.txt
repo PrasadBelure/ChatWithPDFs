@@ -2,8 +2,13 @@ streamlit
 python-dotenv
 PyPDF2
 langchain
-torch
 langchain-groq
 faiss-cpu
 transformers
 sentence-transformers
+numpy
+pandas
+scikit-learn
+torch
+protobuf
+tqdm
